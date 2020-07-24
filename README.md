@@ -16,6 +16,8 @@
 
 ### 🏠 [Homepage](https://github.com/jafjuliana/article-preview-component#readme)
 
+### 📌 [Challenge Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+
 ### ✨ [Demo](https://assalti-article-preview-component.vercel.app/)
 
 ## Install
