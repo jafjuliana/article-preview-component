@@ -1,0 +1,24 @@
+{
+  "name": "article-preview-component",
+  "version": "1.0.0",
+  "description": "Frontend Mentor - Challenge NEWBIE: Article preview component",
+  "main": "index.js",
+  "scripts": {
+    "test": "http-server ./public",
+    "scss": "node-sass --watch src/assets/scss/style.scss public/assets/css/style.css --output-style compressed"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jafjuliana/article-preview-component.git"
+  },
+  "author": "Juliana Assalti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jafjuliana/article-preview-component/issues"
+  },
+  "homepage": "https://github.com/jafjuliana/article-preview-component#readme",
+  "dependencies": {
+    "http-server": "^0.12.3",
+    "node-sass": "^4.14.1"
+  }
+}
